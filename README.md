@@ -19,3 +19,11 @@ git commit –m “Initial Commit” 	To commit the changes
 git push origin main 			To push the code in main branch
 
 git add index.html			Adding the html file to staging
+
+git commit –m “Two files”
+
+git push origin main
+
+git log 					To get the logs
+
+git checkout README.md 		To get back to the previous changes
