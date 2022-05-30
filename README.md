@@ -7,6 +7,7 @@ Basic git instructions for add, commit, push...
 Working with GUI.
 
 
+# Instructions
 
 git –version 				To get the github version
 
