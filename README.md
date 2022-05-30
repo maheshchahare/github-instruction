@@ -4,6 +4,10 @@ This is a sample repo, Hello World !!!
 
 Basic git instructions for add, commit, push...
 
+Working with GUI.
+
+
+
 git –version 				To get the github version
 
 mkdir github_demo   			To make a folder name github_demo
