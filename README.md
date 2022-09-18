@@ -34,3 +34,5 @@ git push origin main
 git log 					To get the logs
 
 git checkout README.md 		To get back to the previous changes
+
+git reset --hard <hash commit code>   To get back to a specific commit
