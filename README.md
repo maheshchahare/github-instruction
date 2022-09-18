@@ -36,3 +36,9 @@ git log 					To get the logs
 git checkout README.md 		To get back to the previous changes
 
 git reset --hard <hash commit code>   To get back to a specific commit
+  
+git branch <branch name> 
+  
+git fetch --all
+  
+git checkout <branchname>
